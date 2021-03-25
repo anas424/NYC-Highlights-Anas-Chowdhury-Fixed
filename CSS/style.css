@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+}
+
+.New-York {
+  background-image: url(https://cdn.pixabay.com/photo/2019/12/28/16/22/new-york-4725115_960_720.jpg);
+  height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.New-York-Text{
+  background-color: #00334e;
+  height: 50px;
+  width: 300px;
+  position: absolute;
+  top:370px;
+  right: 500px;
+  text-align: center;
+  }
+
+  h2{
+    color: #f6f5f5;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ny-title{
+  color: #f6f5f5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  margin:auto;
+  margin-top: 5px;
+}
+.centralpark-description{
+  background-color:  #a8df65;
+  height: 330px;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+}
+
+.centralpark-paragraph{
+  font-family: 'Open Sans', sans-serif;
+  padding-right: 100px;
+  padding-left: 100px;
+  color: #f6f5f5;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.centralpark{
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/07/00/47/central-park-1804588_960_720.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.empire-building-description{
+  background-color:  #2d4059;
+  height: 330px;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+
+}
+
+.empire-paragraph{
+  font-family: 'Open Sans', sans-serif;
+  padding-right: 100px;
+  padding-left: 100px;
+  color: #f6f5f5;
+  font-weight: bold;
+  font-size: 16px;
+
+}
+
+.empire-building-img{
+  background-image: url(https://cdn.pixabay.com/photo/2016/10/28/16/29/usa-1778524_960_720.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.world-trade-description{
+  background-color:  #056676;
+  height: 290px;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+}
+
+.wroldtrade-paragraph{
+  font-family: 'Open Sans', sans-serif;
+  padding-right: 100px;
+  padding-left: 100px;
+  color: #f6f5f5;
+  font-weight: bold;
+  font-size: 16px;
+}
+.empire-img{
+  background-image: url(https://cdn.pixabay.com/photo/2015/05/21/09/00/new-york-776798_960_720.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.end-img{
+  background-image: url(https://cdn.pixabay.com/photo/2014/05/02/23/46/new-york-city-336475_960_720.jpg);
+  height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.skyline{
+  background-color:  #2d4059;
+  height: 240px;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+}
+.skyline-paragraph{
+  font-family: 'Open Sans', sans-serif;
+  padding-right: 100px;
+  padding-left: 100px;
+  color: #f6f5f5;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.end{
+  background-color: green;
+  height: 100px;
+  width: 350px;
+  position: absolute;
+  top: 3800px;
+  right: 550px;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  color: #f6f5f5;
+}
